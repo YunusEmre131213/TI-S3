@@ -77,8 +77,8 @@ De docenten en begeleiders zijn:
 
 | Dag | klas A | klas B|
 | --- |  --- | --- |
-| ma  | [Game ontwerp](../programma/lesprogramma/programma-game-introductie.md) (**TM**)|${\color{red}\text{SW~Architecture}}$ [Use Case Diagram, Use Case Beschrijvingen](./lesprogramma/programma-use-case.md) + [Activity diagrammen](https://github.com/HU-TI-DEV/TI-S3/blob/main/programma/lesprogramma/programma-activity-diagrammen.md) (**MV**)| 
-| di  | ${\color{red}\text{SW~Architecture}}$ [Use Case Diagram, Use Case Beschrijvingen](./lesprogramma/programma-use-case.md) + [Activity diagrammen](https://github.com/HU-TI-DEV/TI-S3/blob/main/programma/lesprogramma/programma-activity-diagrammen.md) (**MV**)| [Game ontwerp](../programma/lesprogramma/programma-game-introductie.md) (**GP**) |
+| ma  | [Game ontwerp](../programma/lesprogramma/programma-game-introductie.md) (**TM**)| HL15-1,092 ${\color{red}\text{SW~Architecture}}$ [Use Case Diagram, Use Case Beschrijvingen](./lesprogramma/programma-use-case.md) + [Activity diagrammen](https://github.com/HU-TI-DEV/TI-S3/blob/main/programma/lesprogramma/programma-activity-diagrammen.md) (**MV**)| 
+| di  | HL15-3,068 ${\color{red}\text{SW~Architecture}}$ [Use Case Diagram, Use Case Beschrijvingen](./lesprogramma/programma-use-case.md) + [Activity diagrammen](https://github.com/HU-TI-DEV/TI-S3/blob/main/programma/lesprogramma/programma-activity-diagrammen.md) (**MV**)| [Game ontwerp](../programma/lesprogramma/programma-game-introductie.md) (**GP**) |
 | wo  | [Operating systems, State-Transition-Diagrams en Code](./lesprogramma/programma-OS-STD-Code.md) <br> ${\color{blue}\text{ESP}}$ [Traffic light](../programma/lesprogramma/programma-std-code-intro.md) <br>Intro [onderzoek opdracht](./lesprogramma/programma-persoonlijke-onderzoeksopdracht.md) (**BB & HS**)| (gezamenlijk met klas A) |
 | do  | ${\color{orange}\text{C++}}$[Verdieping_OOP (presentaties)](lesprogramma/programma-verdieping-oop.md) (**HP**)|(gezamenlijk met klas A)|
 
